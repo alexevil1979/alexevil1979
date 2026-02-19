@@ -65,9 +65,9 @@
     <img src="https://img.shields.io/badge/Boosty-Support-ff69b4?style=for-the-badge&logoColor=white" alt="Boosty" height="50"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.donationalerts.com/r/your_da_username">
+  <--<a href="https://www.donationalerts.com/r/your_da_username">
     <img src="https://img.shields.io/badge/DonationAlerts-Support-orange?style=for-the-badge&logoColor=white" alt="DonationAlerts" height="50"/>
-  </a>
+  </a>-->
 </div>
 
 <p align="center">

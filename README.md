@@ -46,7 +46,7 @@
 <h3 align="center">Find me here</h3>
 
 <p align="center">
-  <a href="https://t.me/your_telegram_username">
+  <a href="https://t.me/alexevil1979">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
   <!-- Add Discord, Twitter/X, LinkedIn etc. if needed -->
